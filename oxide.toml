@@ -1,0 +1,87 @@
+[colors]
+foreground = "#cecece"
+background = "#161616"
+cursor_bg = "#cecece"
+cursor_fg = "#161616"
+cursor_border = "#cecece"
+selection_fg = "#cecece"
+selection_bg = "#262626"
+scrollbar_thumb = "#262626"
+split = "#555555"
+visual_bell = "#222222"
+compose_cursor = "#ff9890"
+
+ansi = [
+  "#262626",
+  "#ed756e",
+  "#5bb661",
+  "#c39900",
+  "#3ba6f5",
+  "#968ff7",
+  "#00baaa",
+  "#cecece",
+]
+
+brights = [
+  "#8f8f8f",
+  "#ff9890",
+  "#7bd77f",
+  "#e3b831",
+  "#6fc6ff",
+  "#b5b2ff",
+  "#00dcca",
+  "#dedede",
+]
+
+[colors.indexed]
+16 = "#e48233"
+17 = "#bebebe"
+
+[colors.tab_bar]
+background = "#161616"
+inactive_tab_edge = "#222222"
+
+[colors.tab_bar.active_tab]
+bg_color = "#222222"
+fg_color = "#cecece"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#161616"
+fg_color = "#8f8f8f"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#222222"
+fg_color = "#cecece"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab]
+bg_color = "#222222"
+fg_color = "#cecece"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab_hover]
+bg_color = "#262626"
+fg_color = "#dedede"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[metadata]
+aliases = []
+author = "jakmaz"
+name = "oxide"
