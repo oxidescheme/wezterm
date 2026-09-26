@@ -5,7 +5,7 @@ cursor_bg = "#cecece"
 cursor_fg = "#161616"
 cursor_border = "#cecece"
 selection_fg = "#cecece"
-selection_bg = "#222222"
+selection_bg = "#2e2e2e"
 scrollbar_thumb = "#222222"
 split = "#555555"
 visual_bell = "#222222"
@@ -42,7 +42,7 @@ background = "#161616"
 inactive_tab_edge = "#222222"
 
 [colors.tab_bar.active_tab]
-bg_color = "#222222"
+bg_color = "#2e2e2e"
 fg_color = "#cecece"
 intensity = "Normal"
 italic = false
